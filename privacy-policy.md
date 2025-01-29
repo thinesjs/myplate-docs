@@ -6,7 +6,7 @@ permalink: /privacy-policy/
 
 # Privacy Policy
 
-Last Updated: May 19, 2024
+Last Updated: Jan 29, 2025
 
 ## 1. Introduction
 Welcome to myPlate - Malaysia Car Plates. This privacy policy explains how I handle your personal data when you use the myPlate app. I take your privacy seriously and aim to be transparent about how I collect, use, and protect your information.
