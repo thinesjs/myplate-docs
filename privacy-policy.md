@@ -77,7 +77,7 @@ You can delete your account and associated data at any time through the App:
 2. Select "Delete Account"
 3. Follow the confirmation steps
 
-## 11. External Services and Links
+## 7. External Services and Links
 
 ### Third-Party Data Sources
 The App integrates data from external services, including:
