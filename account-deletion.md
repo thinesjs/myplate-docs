@@ -33,5 +33,5 @@ If you're having trouble deleting your account or have any questions, please con
 ## Alternative Options
 
 If you're considering account deletion due to specific concerns, you might want to:
-- Review our [Privacy Policy](/privacy-policy/) to understand how we handle your data
+- Review our [Privacy Policy](/myplate-docs/privacy-policy/) to understand how we handle your data
 - Create a support ticket through the app to resolve any issues you're experiencing
