@@ -23,7 +23,7 @@ This guide explains how to permanently delete your myPlate account and all assoc
 - Account deletion is permanent and cannot be undone
 - All your data will be permanently erased from the servers
 - You won't be able to recover your account or any associated data after deletion
-- If you want to use myPlate again, you'll need to create a new account
+- If you want to use myPlate's features that require an account again, you'll need to create a new account
 
 ## Need Help?
 
